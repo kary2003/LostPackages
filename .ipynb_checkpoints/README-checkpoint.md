@@ -1,5 +1,4 @@
 # Supply Chains
-
 ---
 
 # Background
