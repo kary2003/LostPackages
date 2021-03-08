@@ -4,9 +4,9 @@ import './AccessControl.sol';
 import './Ownable.sol';
 import "./Roles.sol";
 import './SenderRole.sol';
-// import './DistributorRole.sol';
-//import './TransportationRole.sol';
-//import './ReceiverRole.sol';
+import './DistributorRole.sol';
+import './TransportationRole.sol';
+import './ReceiverRole.sol';
 
 
 // Define a contract 'Supplychain'
