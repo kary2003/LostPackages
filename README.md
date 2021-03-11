@@ -2,8 +2,9 @@
 ---
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Sender and Receiver and how to manage and audit blockchain package ownership as package is transferred down the supply chain. The user story is similar to any commonly used supply chain process. A Sender can add items to the system stored in the blockchain.Also, Sender can take a picture of the item they send and add that picture to the platform that the Distributor provided to get a QR code to the package. Distributor can mark an item as Shipped, and transporter can add  can mark an item as Received.
 
+
 The DApp User Interface when running looks like this...
-![product overview](Images/Image_1.PNG)
+![product overview](Images/Image_2.PNG)
 
 
 # Background
