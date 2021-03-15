@@ -35,3 +35,10 @@ The UML activity diagram captures the dynamic behavior of the system. It represe
 Our Supply chain works as below...
 
 ![Activity Diagram](Images/Deploy_1.gif)
+
+Also we made a QR code, and you can scan the code and see what inside the box.
+
+![product overview](Images/Image_4.PNG)
+
+
+
