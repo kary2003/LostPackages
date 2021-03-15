@@ -20,7 +20,7 @@ Our Supply chain diagrame looks like this...
 
 
 The DApp User Interface when running looks like this...
-![product overview](Images/Image_5.JPEG)
+![product overview](Images/Image_5.png)
 
 # Activity Diagram
 
