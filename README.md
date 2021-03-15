@@ -32,3 +32,6 @@ The UML activity diagram captures the dynamic behavior of the system. It represe
 
 ![Activity Diagram](Images/Image_3.PNG)
 
+Our Supply chain works as below...
+
+![Activity Diagram](Images/Image_3.PNG)
