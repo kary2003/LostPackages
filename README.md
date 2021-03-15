@@ -39,7 +39,8 @@ Our Supply chain works as below...
 
 
 Also we made a QR code, and you can scan the code and see what inside the box...
--
+
+---
 
 ![product overview](Images/Image_4.PNG)
 
