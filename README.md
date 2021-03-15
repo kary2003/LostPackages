@@ -1,6 +1,7 @@
 
 # Supply Chains
-
+----
+![Supply Image](Images/Image_4.jpeg)
 # Background
 
 Our team of developers is creating a block chain to assist major shippers such as UPS and Fedex to locate lost packages by creating a QR Code that when scan displays an image of the contents being shipped.
@@ -19,7 +20,7 @@ Our Supply chain diagrame looks like this...
 
 
 The DApp User Interface when running looks like this...
-![product overview](Images/Image_2.PNG)
+![product overview](Images/Image_5.png)
 
 # Activity Diagram
 
